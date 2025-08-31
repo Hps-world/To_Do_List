@@ -13,6 +13,9 @@ Features: **add**, **complete**, **edit**, **delete** tasks. Styled with plain C
 - Ready for GitHub submission 
 
 ## Getting Started
+<br/>
 cd To-Do-List
+<br/>
 npm install
+<br/>
 npm run dev
